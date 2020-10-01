@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <WebKit/WebKit.h>
 
-@interface FSQTransparentWebView : UIWebView
+@interface FSQTransparentWebView : WKWebView
 
 @end
